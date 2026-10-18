@@ -1,0 +1,1 @@
+#define MHZ19_MAX_PPM 5000.0
